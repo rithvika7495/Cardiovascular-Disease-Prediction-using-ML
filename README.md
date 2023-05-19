@@ -51,7 +51,7 @@ The models are trained on a portion of the dataset and evaluated on the remainin
 
 🚀 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/Cardiovascular-Disease-Prediction.git`
+1. Clone the repository: `git clone https://github.com/rithvika7495/Cardiovascular-Disease-Prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Obtain the dataset containing patient information and cardiovascular disease labels.
 4. Preprocess the data, handle missing values, and engineer relevant features.
